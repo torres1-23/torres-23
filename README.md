@@ -32,7 +32,7 @@ I'm so glad you are visiting my Github!
 ### Future Repositories:
 
 * envnet - a CNN model capable of environment detection.
-* NAOcom - a full application to give a humanoid robot the capability of object and pose detection, based on my [degree project](https://red.uao.edu.co/handle/10614/10162).
+* NAOcom - a full application to give a humanoid robot the capability of object and pose detection, based on my [degree project](https://red.uao.edu.co/handle/10614/12739).
 
 ## If you want to know more about me ....:
 
