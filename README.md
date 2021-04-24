@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm so glad you are visiting my Github!.
+I'm so glad you are visiting my Github!
 
 ## This is what you will find:
 
@@ -26,12 +26,16 @@ I'm so glad you are visiting my Github!.
 | [monty](https://github.com/torres1-23/monty) | Interpreter for Monty scripting language made in C |
 
 ### Working on:
+
 * AirBnB full website clone hosted on [athbnb.tech](https://www.athbnb.tech/).
 
 ### Future Repositories:
+
 * envnet - a CNN model capable of environment detection.
 * NAOcom - a full application to give a humanoid robot the capability of object and pose detection, based on my [degree project](https://red.uao.edu.co/handle/10614/10162).
 
-## If you want to know more about me....:
+## If you want to know more about me ....:
+
 ### .... or connect:
+
 Visit my [LinkedIn account](https://www.linkedin.com/in/alejo-torres-amortegui/) or send me an email to alejo.torres1247@gmail.com
