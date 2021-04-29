@@ -8,10 +8,11 @@ I'm so glad you are visiting my Github!
 
 | Repository | Description |
 |------------|-------------|
+| [what-do-i-see](https://github.com/Seed-Tech/what_do_i_see) | Flutter app that shows objects in an image using Deep Learning |
 | [simple-shell](https://github.com/torres1-23/simple_shell) | Our own implementation of a UNIX shell |
 | [printf](https://github.com/torres1-23/printf) | Custom version of function printf defined in the stdio.h library of C programming language |
 | [utils_project](https://github.com/torres1-23/utils_project) | Different scripts with utilities made by me in order to use in other projects |
-[AirBnB_clone_v2](https://github.com/torres1-23/AirBnB_clone_v2) | Version 2 of our own implementation of AirBnB website clone |
+| [AirBnB_clone_v2](https://github.com/torres1-23/AirBnB_clone_v2) | Version 2 of our own implementation of AirBnB website clone |
 
 ### Other Repositories:
 
