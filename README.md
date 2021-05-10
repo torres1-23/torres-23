@@ -19,7 +19,7 @@ I'm so glad you are visiting my Github!
 | Repository | Description |
 |------------|-------------|
 | holberton* | Repositories with this word are part of the Holberton School curriculum |
-| [Fix_My_Code_Challenge](https://github.com/torres1-23/Fix_My_Code_Challenge/tree/master/0x00-challenge) | Challenge to fix bugs on different scripts |
+| [Fix_My_Code_Challenge](https://github.com/torres1-23/Fix_My_Code_Challenge) | Challenge to fix bugs on different scripts |
 | [binary_trees](https://github.com/torres1-23/binary_trees) | Implementation of binary trees algorithms |
 | [challenges-SQL](https://github.com/torres1-23/challenges-SQL) | Solved a challenge involving SQL |
 | [AirBnB_clone](https://github.com/torres1-23/AirBnB_clone) | 1st version of AirBnB website clone |
