@@ -12,7 +12,7 @@ I'm so glad you are visiting my Github!
 | [simple-shell](https://github.com/torres1-23/simple_shell) | Our own implementation of a UNIX shell |
 | [printf](https://github.com/torres1-23/printf) | Custom version of function printf defined in the stdio.h library of C programming language |
 | [utils_project](https://github.com/torres1-23/utils_project) | Different scripts with utilities made by me in order to use in other projects |
-| [AirBnB_clone_v3](https://github.com/torres1-23/AirBnB_clone_v3) | Version 3 of our own implementation of AirBnB website clone |
+| [AirBnB_clone_v4](https://github.com/el-dani-cortes/AirBnB_clone_v4) | Version 4 of our own implementation of AirBnB website clone |
 
 ### Other Repositories:
 
@@ -22,8 +22,7 @@ I'm so glad you are visiting my Github!
 | [Fix_My_Code_Challenge](https://github.com/torres1-23/Fix_My_Code_Challenge) | Challenge to fix bugs on different scripts |
 | [binary_trees](https://github.com/torres1-23/binary_trees) | Implementation of binary trees algorithms |
 | [challenges-SQL](https://github.com/torres1-23/challenges-SQL) | Solved a challenge involving SQL |
-| [AirBnB_clone](https://github.com/torres1-23/AirBnB_clone) | 1st version of AirBnB website clone |
-| [AirBnB_clone_v2](https://github.com/torres1-23/AirBnB_clone_v2) | 2nd version of AirBnB website clone |
+| AirBnB_clone* | Versions of AirBnB website clone |
 | [sorting_algorithms](https://github.com/torres1-23/sorting_algorithms) | Implementation of sorting algorithms to learn about big O notation |
 | [monty](https://github.com/torres1-23/monty) | Interpreter for Monty scripting language made in C |
 
