@@ -28,7 +28,7 @@ I'm so glad you are visiting my Github!
 
 ### Working on:
 
-* AirBnB full website clone hosted on [athbnb.tech](https://www.athbnb.tech/).
+* HopeSeed - App to extract data from seeds in images.
 
 ### Future Repositories:
 
